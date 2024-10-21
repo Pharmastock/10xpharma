@@ -1,0 +1,4 @@
+.text-white {
+    color: white !important;
+    text-decoration: none; /* To remove the underline if needed */
+}

@@ -1,0 +1,10 @@
+.text-black{
+    color: black !important;
+    text-decoration: none; /* To remove the underline if needed */
+    }
+
+    .make-containr{
+        width: 49.5%;
+        display: inline;
+
+    }
