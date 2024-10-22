@@ -13,7 +13,7 @@ function FeaturedProduct() {
   const dummyData = [
     {
       "id": "1",
-      "name": "Skin Care",
+      "name": "LoveBites",
       "company": "10X beauty",
       "price": 50000,
       "image": skincare,
