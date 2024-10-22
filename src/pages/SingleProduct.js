@@ -39,7 +39,7 @@ const dummyData = [
   // },
   {
     id: '1',
-    name: 'LoveBite Night Cream',
+    name: 'LoveBites Night Cream',
     company: '10X Beauty',
     price: 500,
     image: [skincare],
